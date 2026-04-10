@@ -37,18 +37,18 @@ export default function BrainStatus() {
             <div className="text-[8px] font-bold uppercase tracking-widest text-muted-foreground mb-1">Active Agents</div>
             <div className="text-xl font-bold text-white">12</div>
           </div>
-          <div className="p-3 rounded-xl bg-white/5 border border-white/5">
+          <div cassName="p-3 rounded-xl bg-white/5 border border-white/5">
             <div className="text-[8px] font-bold uppercase tracking-widest text-muted-foreground mb-1">Uptime</div>
             <div className="text-xl font-bold text-white">99.9%</div>
-          </div>
+          </div>div>
         </div>
 
         <div className="pt-4 border-t border-white/5">
           <div className="text-[9px] font-mono text-brand/80 animate-pulse">
-            > Monitoring local edge nodes...
+            {'>'} Monitoring local edge nodes...
           </div>
           <div className="text-[9px] font-mono text-muted-foreground mt-1">
-            > Last packet signature: 0x8F4E2...
+            {'>'} Last packet signature: 0x8F4E2...
           </div>
         </div>
       </div>
