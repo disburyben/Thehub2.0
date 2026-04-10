@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "ams-electrical",
+    "name": "AMS Electrical",
+    "domain": "automatedmachineryservices.com",
+    "supermetrics": {
+      "facebookAccountId": "PLACEHOLDER_FB_AMS",
+      "instagramAccountId": "PLACEHOLDER_IG_AMS",
+      "linkedinAccountId": "PLACEHOLDER_LI_AMS"
+    },
+    "cloudinary": { "folderPrefix": "clients/ams-electrical" }
+  },
+  {
+    "slug": "jms-painting",
+    "name": "JMS Painting NSW",
+    "domain": "jmspaintingnsw.com.au",
+    "supermetrics": {
+      "facebookAccountId": "PLACEHOLDER_FB_JMS",
+      "instagramAccountId": "PLACEHOLDER_IG_JMS",
+      "linkedinAccountId": "PLACEHOLDER_LI_JMS"
+    },
+    "cloudinary": { "folderPrefix": "clients/jms-painting" }
+  },
+  {
+    "slug": "max-johnston",
+    "name": "Max Johnston",
+    "domain": "maxjohnston.com.au",
+    "supermetrics": {
+      "facebookAccountId": "PLACEHOLDER_FB_MAX",
+      "instagramAccountId": "PLACEHOLDER_IG_MAX",
+      "linkedinAccountId": "PLACEHOLDER_LI_MAX"
+    },
+    "cloudinary": { "folderPrefix": "clients/max-johnston" }
+  }
+]
